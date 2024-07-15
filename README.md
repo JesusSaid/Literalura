@@ -1,6 +1,6 @@
-#LiterALura
+##LiterALura
 
-_ Resolucion del segundo challenge de Alura hecho por su servidor y con la ayuda de los cursos de alura _
+_Resolucion del segundo challenge de Alura hecho por su servidor y con la ayuda de los cursos de alura _
 
 ## Comenzando 🚀
 
