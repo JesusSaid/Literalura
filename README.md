@@ -33,6 +33,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Expresiones de Gratitud 🎁
 
-*Gracias a ALURA poe estos cursos, en verdad que me emciono realizar este Challenge :)
+**Gracias a ALURA poe estos cursos, en verdad que me emciono realizar este Challenge :)**
 
 
